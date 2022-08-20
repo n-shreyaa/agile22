@@ -63,10 +63,10 @@ h1 a {
 
 #menu {
     height: 70px;
-    background: linear-gradient(#F8F594, #D5D533);
-    background: -webkit-linear-gradient(#F8F594, #D5D533);
-    background: -o-linear-gradient(#F8F594, #D5D533);
-    background: -moz-linear-gradient(#F8F594, #D5D533);
+    background: linear-gradient(#a4dce6, rgb(182, 78, 165));
+    background: -webkit-linear-gradient(#a4dce6, rgb(245, 112, 179));
+    background: -o-linear-gradient(#a4dce6, rgb(221, 85, 180));
+    background: -moz-linear-gradient(#a4dce6, rgb(221, 85, 192));
     padding: 7px 0;
 }
 
